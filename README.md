@@ -1,4 +1,4 @@
 lol-toolbar
 ===========
 
-A helpful toolbar for the League of Legends Tribunal
+This is a Chrome/Chromium extension that adds a helpful toolbar for the League of Legends Tribunal.
